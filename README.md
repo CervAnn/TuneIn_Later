@@ -23,17 +23,17 @@ In addition to searching for music from different artists, users can also log in
 
 ## Images
 
-### Home page:
-![Home screenshot](./src/images/home-page.png)
+### Home Page:
+![Home screenshot](./src/image/Screenshot_PickALeague.png)
 
-### Log-in form:
-![Log-in form screenshot](./src/images/log-in-form.png)
+### Pick Method League:
+![Pick League screenshot](./src/images/Screenshot_PickAMethod.png)
 
-### Signup form:
-![Signup form screenshot](./src/images/sign-up.png)
+### Survey :
+![Survey screenshot](./src/images/PickAMatch.png)
 
-### Logged-in home page:
-![Logged-in home page screenshot](./src/images/logged-in-home-page.png)
+### Initial Display Page:
+![Logged-in home page screenshot](./src/images/RandomPick.png)
 
-### Favorites page:
-![Favorites page screenshot](./src/images/favorites-page.png)
+### WireFrame:
+![Favorites page screenshot](./src/images/WireFrame.jpg)
